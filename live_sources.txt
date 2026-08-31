@@ -1,0 +1,16 @@
+# 直播源集合 - 每行一个地址(影视仓支持多直播源自动轮询)
+
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u
+https://3043.kstore.space/bhvip/bhzb.txt
+https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://www.iyouhun.com/tv/zb
+https://live.zbds.top/tv/iptv4.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
