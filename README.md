@@ -13,12 +13,13 @@
 https://gh-proxy.com/https://raw.githubusercontent.com/Damon-zhouyufeng/tvbox-sources/main/live_cn.m3u
 ```
 
-> 实测 **0.72s**，国内直连无需翻墙。
-> 其他可用镜像（择一）：
-> - `https://fastly.jsdelivr.net/gh/Damon-zhouyufeng/tvbox-sources@main/live_cn.m3u` （1.29s）
-> - `https://ghproxy.net/https://raw.githubusercontent.com/Damon-zhouyufeng/tvbox-sources/main/live_cn.m3u` （1.47s）
+> 实测 **5/5 全通，0.52~0.91s**，国内直连无需翻墙。
+> 备选镜像（择一，均已实测）：
+> - `https://fastly.jsdelivr.net/gh/Damon-zhouyufeng/tvbox-sources@main/live_cn.m3u` （0.92~1.65s ✅）
+> - `https://gcore.jsdelivr.net/gh/Damon-zhouyufeng/tvbox-sources@main/live_cn.m3u` （2.55~4.33s ✅）
+> - ~~`ghproxy.net`~~ 已失效（0/2），勿用
 
-### 原始地址（需能访问 GitHub）
+### 原始地址（本机实测直连也很快，5/5 全通 0.46~1.57s）
 
 | 文件 | 频道数 | 说明 |
 |---|---|---|
