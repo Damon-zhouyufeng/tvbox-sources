@@ -1,16 +1,39 @@
-# 直播源集合 - 每行一个地址(影视仓支持多直播源自动轮询)
-
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
-https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u
-https://3043.kstore.space/bhvip/bhzb.txt
-https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
-https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
-https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+# TVBox 直播源清单 — 全部（国内 + 需镜像加速）
+# 游魂直播
 https://www.iyouhun.com/tv/zb
+# zbds-iptv4-txt(711台)
+https://live.zbds.top/tv/iptv4.txt
+# zbds-iptv4-m3u(544台)
 https://live.zbds.top/tv/iptv4.m3u
+# 宝盒直播(612台)
+https://3043.kstore.space/bhvip/bhzb.txt
+# OTT-YY轮播(530台)
+https://sub.ottiptv.cc/yylunbo.m3u
+# OTT-B站直播(858台)
+https://sub.ottiptv.cc/bililive.m3u
+# ★本项目 live.m3u(280台已验证)
+https://raw.githubusercontent.com/Damon-zhouyufeng/tvbox-sources/main/live.m3u
+# Guovin-IPv4(473台)
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+# Guovin-默认(1616台)
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
-https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
-https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u
+# myIPTV-IPv4(1211台)
 https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
+# 茶客源(788台)
+https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
+# YanG集合(123台)
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+# BigBigGrandG(1955台)
+https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u
+# Kimentanm(119台)
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+# epg-大陆(1480台)
+https://epg.pw/test_channels.m3u
+# epg-香港(27台)
+https://epg.pw/test_channels_hong_kong.m3u
+# epg-澳门(19台)
+https://epg.pw/test_channels_macau.m3u
+# epg-台湾(40台)
+https://epg.pw/test_channels_taiwan.m3u
+# iptv-org-台湾(25台)
+https://iptv-org.github.io/iptv/countries/tw.m3u

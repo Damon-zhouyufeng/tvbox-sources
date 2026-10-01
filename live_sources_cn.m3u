@@ -1,0 +1,26 @@
+# TVBox 直播源清单 — 国内直连（无需代理）
+# 用法：影视仓「直播地址」填其中任意一条
+# 游魂直播
+https://www.iyouhun.com/tv/zb
+# zbds-iptv4-txt(711台)
+https://live.zbds.top/tv/iptv4.txt
+# zbds-iptv4-m3u(544台)
+https://live.zbds.top/tv/iptv4.m3u
+# 宝盒直播(612台)
+https://3043.kstore.space/bhvip/bhzb.txt
+# OTT-YY轮播(530台)
+https://sub.ottiptv.cc/yylunbo.m3u
+# OTT-B站直播(858台)
+https://sub.ottiptv.cc/bililive.m3u
+#EXTINF:-1,游魂直播
+https://www.iyouhun.com/tv/zb
+#EXTINF:-1,zbds-iptv4-txt(711台)
+https://live.zbds.top/tv/iptv4.txt
+#EXTINF:-1,zbds-iptv4-m3u(544台)
+https://live.zbds.top/tv/iptv4.m3u
+#EXTINF:-1,宝盒直播(612台)
+https://3043.kstore.space/bhvip/bhzb.txt
+#EXTINF:-1,OTT-YY轮播(530台)
+https://sub.ottiptv.cc/yylunbo.m3u
+#EXTINF:-1,OTT-B站直播(858台)
+https://sub.ottiptv.cc/bililive.m3u

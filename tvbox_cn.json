@@ -1,23 +1,7 @@
 [
   {
-    "name": "🚀高天流云(298站点/0.7s)",
-    "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
-  },
-  {
-    "name": "🚀分享(0.9s)",
-    "url": "https://raw.githubusercontent.com/maoystv/6/main/000.json"
-  },
-  {
-    "name": "🚀dxawi(48站点/0.7s)",
-    "url": "https://dxawi.github.io/0/0.json"
-  },
-  {
-    "name": "🚀动漫城(27站点/0.1s)",
+    "name": "🚀动漫城(0.1s)",
     "url": "https://www.yingm.cc/dm/dm.json"
-  },
-  {
-    "name": "🚀宝盒VIP(0.8s)",
-    "url": "https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json"
   },
   {
     "name": "🚀菜妮丝(0.8s)",
@@ -34,10 +18,6 @@
   {
     "name": "🚀摸鱼儿(1.7s)",
     "url": "http://我不是.摸鱼儿.com"
-  },
-  {
-    "name": "🚀香雅情(1.8s)",
-    "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
   },
   {
     "name": "🚀俊佬(偶发超时)",
