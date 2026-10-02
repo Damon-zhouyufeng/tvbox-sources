@@ -1,0 +1,28 @@
+{
+  "urls": [
+    {
+      "url": "https://www.yingm.cc/dm/dm.json",
+      "name": "🚀动漫城(27站点/0.1s)"
+    },
+    {
+      "url": "https://www.252035.xyz/z/FongMi.json",
+      "name": "🚀真心(43站点/1.1s)"
+    },
+    {
+      "url": "http://home.jundie.top:81/top98.json",
+      "name": "🚀俊佬(24站点/0.2s·偶发超时)"
+    },
+    {
+      "url": "http://xhztv.top/xhz",
+      "name": "小盒子单仓(54站点/3.6s)"
+    },
+    {
+      "url": "http://xhztv.top/4k.json",
+      "name": "小盒子4K(格式特殊/0.8s)"
+    },
+    {
+      "url": "https://api.hgyx.vip/hgyx.json",
+      "name": "HG(格式特殊/2.4s)"
+    }
+  ]
+}

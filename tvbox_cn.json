@@ -1,34 +1,26 @@
 [
   {
-    "name": "🚀动漫城(0.1s)",
+    "name": "🚀动漫城(27站点/0.1s)",
     "url": "https://www.yingm.cc/dm/dm.json"
   },
   {
-    "name": "🚀菜妮丝(0.8s)",
-    "url": "https://tv.菜妮丝.top"
-  },
-  {
-    "name": "🚀真心(1.0s)",
+    "name": "🚀真心(43站点/1.1s)",
     "url": "https://www.252035.xyz/z/FongMi.json"
   },
   {
-    "name": "🚀HG(1.6s)",
-    "url": "https://api.hgyx.vip/hgyx.json"
-  },
-  {
-    "name": "🚀摸鱼儿(1.7s)",
-    "url": "http://我不是.摸鱼儿.com"
-  },
-  {
-    "name": "🚀俊佬(偶发超时)",
+    "name": "🚀俊佬(24站点/0.2s·偶发超时)",
     "url": "http://home.jundie.top:81/top98.json"
   },
   {
-    "name": "小盒子单仓(2.5s)",
+    "name": "小盒子单仓(54站点/3.6s)",
     "url": "http://xhztv.top/xhz"
   },
   {
-    "name": "小盒子4K(4.0s)",
+    "name": "小盒子4K(格式特殊/0.8s)",
     "url": "http://xhztv.top/4k.json"
+  },
+  {
+    "name": "HG(格式特殊/2.4s)",
+    "url": "https://api.hgyx.vip/hgyx.json"
   }
 ]

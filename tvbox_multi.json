@@ -1,10 +1,34 @@
 [
   {
-    "name": "🚀高天流云(298站点/0.7s)",
+    "name": "🚀动漫城(27站点/0.1s)",
+    "url": "https://www.yingm.cc/dm/dm.json"
+  },
+  {
+    "name": "🚀真心(43站点/1.1s)",
+    "url": "https://www.252035.xyz/z/FongMi.json"
+  },
+  {
+    "name": "🚀俊佬(24站点/0.2s·偶发超时)",
+    "url": "http://home.jundie.top:81/top98.json"
+  },
+  {
+    "name": "小盒子单仓(54站点/3.6s)",
+    "url": "http://xhztv.top/xhz"
+  },
+  {
+    "name": "小盒子4K(格式特殊/0.8s)",
+    "url": "http://xhztv.top/4k.json"
+  },
+  {
+    "name": "HG(格式特殊/2.4s)",
+    "url": "https://api.hgyx.vip/hgyx.json"
+  },
+  {
+    "name": "🚀高天流云(298站点/0.8s)",
     "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
   },
   {
-    "name": "🚀分享(0.9s)",
+    "name": "🚀分享(174站点/0.9s)",
     "url": "https://raw.githubusercontent.com/maoystv/6/main/000.json"
   },
   {
@@ -12,43 +36,11 @@
     "url": "https://dxawi.github.io/0/0.json"
   },
   {
-    "name": "🚀动漫城(27站点/0.1s)",
-    "url": "https://www.yingm.cc/dm/dm.json"
-  },
-  {
-    "name": "🚀宝盒VIP(0.8s)",
-    "url": "https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json"
-  },
-  {
-    "name": "🚀菜妮丝(0.8s)",
-    "url": "https://tv.菜妮丝.top"
-  },
-  {
-    "name": "🚀真心(1.0s)",
-    "url": "https://www.252035.xyz/z/FongMi.json"
-  },
-  {
-    "name": "🚀HG(1.6s)",
-    "url": "https://api.hgyx.vip/hgyx.json"
-  },
-  {
-    "name": "🚀摸鱼儿(1.7s)",
-    "url": "http://我不是.摸鱼儿.com"
-  },
-  {
-    "name": "🚀香雅情(1.8s)",
+    "name": "🚀香雅情(48站点/4.1s)",
     "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
   },
   {
-    "name": "🚀俊佬(偶发超时)",
-    "url": "http://home.jundie.top:81/top98.json"
-  },
-  {
-    "name": "小盒子单仓(2.5s)",
-    "url": "http://xhztv.top/xhz"
-  },
-  {
-    "name": "小盒子4K(4.0s)",
-    "url": "http://xhztv.top/4k.json"
+    "name": "宝盒VIP(格式特殊/0.8s)",
+    "url": "https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json"
   }
 ]
