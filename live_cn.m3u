@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv.xml"
 # 国内直连快速版（响应 <2s）
 # 全部实测 <2 秒响应，不挂代理也流畅；盒子优先用这个
-# 频道数 209 · 生成 2026-10-04 · 仓库 github.com/Damon-zhouyufeng/tvbox-sources
-# 来源：本仓历史聚合 + iptv-org/iptv (github.io) 合并去重，全部本机实测可播
+# 频道数 209 · 生成 2026-10-04 · github.com/Damon-zhouyufeng/tvbox-sources
+# 来源：本仓历史聚合 + iptv-org/iptv(github.io) 合并去重，全部本机实测可播
 
 # ===== 📺央视 =====
 #EXTINF:-1 tvg-name="CCTV-1 综合" group-title="📺央视",CCTV-1 综合
@@ -42,6 +42,22 @@ http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-Storm Music" group-title="📺央视",CCTV-Storm Music
 http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 # ===== 📡卫视 =====
+#EXTINF:-1 tvg-name="Anhui TV" group-title="📡卫视",Anhui TV
+https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
+#EXTINF:-1 tvg-name="CCTV" group-title="📡卫视",CCTV
+http://198.204.240.250:82/live/cctv4k.m3u8
+#EXTINF:-1 tvg-name="Guangdong Satellite TV" group-title="📡卫视",Guangdong Satellite TV
+https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8
+#EXTINF:-1 tvg-name="Hebei TV" group-title="📡卫视",Hebei TV
+https://event.pull.hebtv.com/live/live101.m3u8
+#EXTINF:-1 tvg-name="Hunan TV" group-title="📡卫视",Hunan TV
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-name="Kangba TV" group-title="📡卫视",Kangba TV
+http://110.185.237.164:8888/hls/30/index.m3u8
+#EXTINF:-1 tvg-name="Nei Monggol TV" group-title="📡卫视",Nei Monggol TV
+https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8
+#EXTINF:-1 tvg-name="Siping TV" group-title="📡卫视",Siping TV
+http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 #EXTINF:-1 tvg-name="三沙卫视" group-title="📡卫视",三沙卫视
 http://107.150.60.122/live/ssws.m3u8
 #EXTINF:-1 tvg-name="东南卫视" group-title="📡卫视",东南卫视
@@ -72,6 +88,8 @@ http://gmxw.7766.org:808/hls/40/index.m3u8
 http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 #EXTINF:-1 tvg-name="广东卫视" group-title="📡卫视",广东卫视
 https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+#EXTINF:-1 tvg-name="广西新闻" group-title="📡卫视",广西新闻
+http://198.204.228.26/live/gxxw.m3u8
 #EXTINF:-1 tvg-name="延边卫视" group-title="📡卫视",延边卫视
 https://srs.iyb983.cn:443/video/CYS/index.m3u8
 #EXTINF:-1 tvg-name="教育卫视" group-title="📡卫视",教育卫视
@@ -109,12 +127,8 @@ https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 # ===== 🏙️地方 =====
 #EXTINF:-1 tvg-name="(!!)(箱)音乐欣赏" group-title="🏙️地方",(!!)(箱)音乐欣赏
 http://61.221.215.25:8800/hls/49/index.m3u8
-#EXTINF:-1 tvg-name="Anhui TV" group-title="🏙️地方",Anhui TV
-https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
 #EXTINF:-1 tvg-name="BRTV纪实科教" group-title="🏙️地方",BRTV纪实科教
 http://120.76.248.139/live/bfgd/4200000113.m3u8
-#EXTINF:-1 tvg-name="CCTV" group-title="🏙️地方",CCTV
-http://198.204.240.250:82/live/cctv4k.m3u8
 #EXTINF:-1 tvg-name="CCTV怀旧剧场" group-title="🏙️地方",CCTV怀旧剧场
 https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="CCTV文化精品" group-title="🏙️地方",CCTV文化精品
@@ -125,20 +139,12 @@ http://113.64.146.48:1688/hls/4/index.m3u8
 http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 #EXTINF:-1 tvg-name="Dragon TV International" group-title="🏙️地方",Dragon TV International
 https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
-#EXTINF:-1 tvg-name="Guangdong Satellite TV" group-title="🏙️地方",Guangdong Satellite TV
-https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8
 #EXTINF:-1 tvg-name="Guangxi Variety & Travel Channel" group-title="🏙️地方",Guangxi Variety & Travel Channel
 http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="Harbin Comprehensive News Channel" group-title="🏙️地方",Harbin Comprehensive News Channel
 https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
 #EXTINF:-1 tvg-name="Harbin Movie Channel" group-title="🏙️地方",Harbin Movie Channel
 https://stream.hrbtv.net/yspd/playlist.m3u8
-#EXTINF:-1 tvg-name="Hebei TV" group-title="🏙️地方",Hebei TV
-https://event.pull.hebtv.com/live/live101.m3u8
-#EXTINF:-1 tvg-name="Hunan TV" group-title="🏙️地方",Hunan TV
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1 tvg-name="Kangba TV" group-title="🏙️地方",Kangba TV
-http://110.185.237.164:8888/hls/30/index.m3u8
 #EXTINF:-1 tvg-name="Lanzhou Comprehensive News Channel" group-title="🏙️地方",Lanzhou Comprehensive News Channel
 https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 #EXTINF:-1 tvg-name="Lanzhou Culture & Tourism Channel" group-title="🏙️地方",Lanzhou Culture & Tourism Channel
@@ -155,8 +161,6 @@ http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 #EXTINF:-1 tvg-name="QTV-6" group-title="🏙️地方",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
-#EXTINF:-1 tvg-name="Siping TV" group-title="🏙️地方",Siping TV
-http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 #EXTINF:-1 tvg-name="TVB Vietnam" group-title="🏙️地方",TVB Vietnam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
 #EXTINF:-1 tvg-name="TVBS-Asia" group-title="🏙️地方",TVBS-Asia
@@ -175,8 +179,6 @@ http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 http://php.jdshipin.com:8880/xztv.php?id=zy
 #EXTINF:-1 tvg-name="Zhejiang International Channel" group-title="🏙️地方",Zhejiang International Channel
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Nei Monggol TV" group-title="🏙️地方",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Nei Monggol TV
-https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8
 #EXTINF:-1 tvg-name="「HK」翡翠台" group-title="🏙️地方",「HK」翡翠台
 http://r.jdshipin.com/62WM7
 #EXTINF:-1 tvg-name="「中」凤凰传奇-今生的缘" group-title="🏙️地方",「中」凤凰传奇-今生的缘
@@ -291,8 +293,6 @@ https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 #EXTINF:-1 tvg-name="广安公共" group-title="🏙️地方",广安公共
 http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
-#EXTINF:-1 tvg-name="广西新闻" group-title="🏙️地方",广西新闻
-http://198.204.228.26/live/gxxw.m3u8
 #EXTINF:-1 tvg-name="新纪实" group-title="🏙️地方",新纪实
 http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 #EXTINF:-1 tvg-name="旺苍新闻综合" group-title="🏙️地方",旺苍新闻综合
@@ -423,7 +423,7 @@ https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN记录" group-title="🌏CGTN",CGTN记录
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 # ===== 🌐CCTV+国际 =====
-#EXTINF:-1 tvg-name="CCTV+  1" group-title="🌐CCTV+国际",CCTV+  1
+#EXTINF:-1 tvg-name="CCTV+ 1" group-title="🌐CCTV+国际",CCTV+ 1
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="CCTV+  2" group-title="🌐CCTV+国际",CCTV+  2
+#EXTINF:-1 tvg-name="CCTV+ 2" group-title="🌐CCTV+国际",CCTV+ 2
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
